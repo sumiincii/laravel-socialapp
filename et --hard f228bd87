@@ -1,0 +1,13 @@
+[33ma489bc55[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Revert "`Removed all .gitignore files from the repository.`"
+[33mf228bd87[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Revert "`Update guest layout and tailwind config to include new resources`"
+[33m7eba2f86[m Reapply "Merge branch 'main' of https://github.com/sumiincii/laravel-socialapp"
+[33m9cf72e4b[m Revert "Merge branch 'main' of https://github.com/sumiincii/laravel-socialapp"
+[33m6c0e4612[m Merge branch 'main' of https://github.com/sumiincii/laravel-socialapp
+[33m7fbd73c6[m ibalik yung git ignore na deinelte
+[33mb4ba7e9d[m `Removed all .gitignore files from the repository.`
+[33mcc1d2e40[m `Update guest layout and tailwind config to include new resources`
+[33mcf8e8093[m `Update package-lock.json and package.json to reflect version updates of laravel-vite-plugin and vite.`
+[33m31c88c99[m railway
+[33m235a796b[m Force add SQLite database file
+[33mc4379e19[m a
+[33m97c9f5b8[m main working
